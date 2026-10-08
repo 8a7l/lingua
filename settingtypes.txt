@@ -1,0 +1,4 @@
+# Максимум мов, які один звичайний гравець може створити.
+# Адміни з привілеєм 'lingua_admin' — без ліміту.
+# 0 = без ліміту.
+lingua_max_languages_per_player (Max languages per player) int 3 0 100
