@@ -1,0 +1,87 @@
+# textdomain: lingua
+
+### Tabs
+Editor=Editor
+Languages=Languages
+Binder=Binder
+Help=Help
+
+### Editor tab
+You don't know any languages yet.=You don't know any languages yet.
+Create one in the Languages tab.=Create one in the Languages tab.
+Language:=Language:
+Input:=Input:
+Result:=Result:
+Encode →=Encode →
+Decode →=Decode →
+Swap=Swap
+Wrap=Wrap
+Decode all=Decode all
+Close=Close
+No language markers found in Input.=No language markers found in Input.
+fragments decoded=fragments decoded
+
+### Languages tab
+Languages:=Languages:
+No languages yet.=No languages yet.
+New language:=New language:
+Info=Info
+Forget=Forget
+Delete=Delete
+Secret=Secret
+Create=Create
+by=by
+(secret)=(secret)
+(known)=(known)
+Language:=Language:
+Author:=Author:
+Type:=Type:
+secret=secret
+normal=normal
+Alphabet:=Alphabet:
+You don't know this language.=You don't know this language.
+You forgot=You forgot
+Deleted=Deleted
+Only the author or an admin can delete a language.=Only the author or an admin can delete a language.
+Enter a name for the new language.=Enter a name for the new language.
+Created language=Created language
+
+### Binder tab
+Bind a dictionary to a language.=Bind a dictionary to a language.
+Hold a dictionary in your hand, then choose below.=Hold a dictionary in your hand, then choose below.
+In hand:=In hand:
+(empty hand)=(empty hand)
+Types:=Types:
+- Dictionary (permanent, reusable)=- Dictionary (permanent, reusable)
+- One-time Dictionary (single use, for secret languages)=- One-time Dictionary (single use, for secret languages)
+Bind Dictionary=Bind Dictionary
+Bind One-time=Bind One-time
+Language not found.=Language not found.
+Hold a dictionary in your hand first.=Hold a dictionary in your hand first.
+Only the author of a secret language can create one-time dictionaries for it.=Only the author of a secret language can create one-time dictionaries for it.
+You must hold a One-time Dictionary.=You must hold a One-time Dictionary.
+One-time Dictionary:=One-time Dictionary:
+Right-click to learn (single use)=Right-click to learn (single use)
+One-time dictionary bound to=One-time dictionary bound to
+Secret language — use Bind One-time.=Secret language — use Bind One-time.
+You must hold a Dictionary.=You must hold a Dictionary.
+Dictionary:=Dictionary:
+Right-click to learn=Right-click to learn
+Dictionary bound to=Dictionary bound to
+
+### Help tab
+Lingua — Help=Lingua — Help
+Create your own languages and share them=Create your own languages and share them
+via dictionaries.=via dictionaries.
+Editor buttons:=Editor buttons:
+encode Input=encode Input
+decode Input=decode Input
+swap Input and Result=swap Input and Result
+encode + wrap in [lang]...[/lang]=encode + wrap in [lang]...[/lang]
+decode all [lang]...[/lang] markers=decode all [lang]...[/lang] markers
+Tabs:=Tabs:
+encode / decode=encode / decode
+create, inspect, forget, delete=create, inspect, forget, delete
+bind dictionary in hand=bind dictionary in hand
+this page=this page
+Commands (alternative):=Commands (alternative):

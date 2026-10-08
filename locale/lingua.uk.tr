@@ -1,0 +1,87 @@
+# textdomain: lingua
+
+### Вкладки
+Editor=Редактор
+Languages=Мови
+Binder=Словники
+Help=Довідка
+
+### Вкладка Editor
+You don't know any languages yet.=Ти ще не знаєш жодної мови.
+Create one in the Languages tab.=Створи одну на вкладці «Мови».
+Language:=Мова:
+Input:=Вхід:
+Result:=Результат:
+Encode →=Кодувати →
+Decode →=Читати →
+Swap=Обмін
+Wrap=Обгортка
+Decode all=Читати все
+Close=Закрити
+No language markers found in Input.=У полі «Вхід» немає маркерів мов.
+fragments decoded=фрагментів розшифровано
+
+### Вкладка Languages
+Languages:=Мови:
+No languages yet.=Мов поки немає.
+New language:=Нова мова:
+Info=Інфо
+Forget=Забути
+Delete=Видалити
+Secret=Секретна
+Create=Створити
+by=від
+(secret)=(секретна)
+(known)=(відома)
+Language:=Мова:
+Author:=Автор:
+Type:=Тип:
+secret=секретна
+normal=звичайна
+Alphabet:=Алфавіт:
+You don't know this language.=Ти не знаєш цієї мови.
+You forgot=Ти забув
+Deleted=Видалено
+Only the author or an admin can delete a language.=Тільки автор або адмін може видалити мову.
+Enter a name for the new language.=Введи назву нової мови.
+Created language=Створено мову
+
+### Вкладка Binder
+Bind a dictionary to a language.=Прив’яжи словник до мови.
+Hold a dictionary in your hand, then choose below.=Візьми словник у руку, потім вибери нижче.
+In hand:=У руці:
+(empty hand)=(порожня рука)
+Types:=Типи:
+- Dictionary (permanent, reusable)=- Словник (постійний, багаторазовий)
+- One-time Dictionary (single use, for secret languages)=- Одноразовий словник (для секретних мов)
+Bind Dictionary=Прив’язати словник
+Bind One-time=Прив’язати одноразовий
+Language not found.=Мову не знайдено.
+Hold a dictionary in your hand first.=Спочатку візьми словник у руку.
+Only the author of a secret language can create one-time dictionaries for it.=Тільки автор секретної мови може створювати для неї одноразові словники.
+You must hold a One-time Dictionary.=Треба тримати одноразовий словник.
+One-time Dictionary:=Одноразовий словник:
+Right-click to learn (single use)=Клік правою, щоб вивчити (одноразово)
+One-time dictionary bound to=Одноразовий словник прив’язано до
+Secret language — use Bind One-time.=Секретна мова — використай «Прив’язати одноразовий».
+You must hold a Dictionary.=Треба тримати словник.
+Dictionary:=Словник:
+Right-click to learn=Клік правою, щоб вивчити
+Dictionary bound to=Словник прив’язано до
+
+### Вкладка Help
+Lingua — Help=Lingua — Довідка
+Create your own languages and share them=Створюй власні мови та ділись ними
+via dictionaries.=через словники.
+Editor buttons:=Кнопки редактора:
+encode Input=закодувати «Вхід»
+decode Input=розшифрувати «Вхід»
+swap Input and Result=поміняти «Вхід» і «Результат»
+encode + wrap in [lang]...[/lang]=закодувати + обгорнути в [lang]...[/lang]
+decode all [lang]...[/lang] markers=розшифрувати всі маркери [lang]...[/lang]
+Tabs:=Вкладки:
+encode / decode=кодування / декодування
+create, inspect, forget, delete=створити, оглянути, забути, видалити
+bind dictionary in hand=прив’язати словник у руці
+this page=ця сторінка
+Commands (alternative):=Команди (альтернатива):
