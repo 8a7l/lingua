@@ -71,4 +71,4 @@ with other players.
 
 ## License
 
-GPL-3.0-or-later. See `LICENSE`.
+GPL-3.0-only. See `LICENSE`.
